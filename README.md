@@ -1,4 +1,4 @@
-# Cara Memakai Kode Super Clean
+# Cara Memakai Kode
 1. **Ambil Token**
 
 Silahkan ambil token bot di discord developer atau klik [disini](https://discord.com/developers/applications)
